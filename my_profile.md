@@ -1,21 +1,20 @@
-Tentang saya 
+My Profile
+
+Tentang Saya
 
 Halo!
 
-Saya Cut Putroe Ainal , yang saat ini merupakan seorang pelajar yang punya ketertarikan besar pada dunia teknologi, terutama bagaimana AI dan web development bisa saling terhubung untuk menciptakan solusi baru. 
-Saya selalu tertarik untuk memahami “kenapa” dan “bagaimana” sebuah sistem bekerja.
+Saya adalah seorang pelajar yang memiliki ketertarikan pada pengembangan web dan Kecerdasan Buatan (Artificial Intelligence). Saya senang mempelajari teknologi baru, terutama bagaimana sebuah sistem dibangun dari dasar hingga dapat menghasilkan solusi yang bermanfaat.
 
-Saat ini saya sedang mempelajari Laravel, PHP, MySQL, serta GitHub untuk memperkuat dasar saya dalam pengembangan aplikasi.
+Saat ini saya sedang fokus mempelajari Laravel, PHP, MySQL, dan GitHub untuk memperkuat kemampuan saya dalam pengembangan aplikasi berbasis web.
 
-⸻
-
-Tujuan saya
+Tujuan Saya
 
 Saya mengikuti AIVC Bootcamp karena ingin:
 
-. Memperluas cara berpikir di luar materi sekolah.
-. Memahami penerapan AI dalam kehidupan nyata.
-. Belajar melalui pengalaman langsung, bukan hanya teori.
-. Berkolaborasi dengan orang-orang yang memiliki minat yang sama.
+* Mengembangkan kemampuan pemrograman dan kemampuan problem solving secara lebih terarah.
+* Memahami penerapan Kecerdasan Buatan dalam dunia nyata.
+* Belajar melalui proyek langsung bersama mentor dan peserta lainnya.
+* Membangun pengalaman serta portofolio yang lebih kuat untuk masa depan.
 
-Bagi saya, belajar terbaik terjadi ketika kita berada di lingkungan yang tepat
+Bagi saya, proses belajar yang paling efektif adalah ketika teori dapat langsung diterapkan dalam praktik nyata.
