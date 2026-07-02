@@ -18,3 +18,11 @@ Saya mengikuti AIVC Bootcamp karena ingin:
 * Membangun pengalaman serta portofolio yang lebih kuat untuk masa depan.
 
 Bagi saya, proses belajar yang paling efektif adalah ketika teori dapat langsung diterapkan dalam praktik nyata.
+
+
+Why I Join This Bootcamp?
+
+Saya memilih mengikuti bootcamp ini karena ingin memperluas cara berpikir di luar pembelajaran sekolah. Saya percaya bahwa pengalaman langsung, kolaborasi, dan tantangan nyata akan membantu saya berkembang lebih cepat dalam dunia teknologi.
+
+
+Saya siap untuk belajar, beradaptasi, dan meningkatkan kemampuan saya melalui program ini. Saya berharap dapat memanfaatkan kesempatan ini sebaik mungkin untuk berkembang di bidang teknologi.
